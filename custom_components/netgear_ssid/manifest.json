@@ -1,6 +1,7 @@
 {
   "domain": "netgear_ssid",
   "name": "NETGEAR SSID",
+  "version": "1.0.0",
   "documentation": "https://github.com/girtskokars/hass-netgear-ssid",
   "requirements": ["pynetgear==0.6.1"],
   "codeowners": ["@girtskokars"]
